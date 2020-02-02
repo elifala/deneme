@@ -8,15 +8,8 @@
  *
  * @author win7
  */
-public class test {
-<<<<<<< HEAD
-  
+public class test{
       public static void main (String[] args){
          boolean c = true;
-         
-          
-      }  
-=======
-
->>>>>>> master
-}
+          int a = 5;   
+      }}
