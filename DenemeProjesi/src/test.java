@@ -8,10 +8,8 @@
  *
  * @author win7
  */
-public class test {
-  
+public class test{
       public static void main (String[] args){
-          int a = 5;
-          
-      }  
-}
+         boolean c = true;
+          int a = 5;   
+      }}
