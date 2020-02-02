@@ -9,10 +9,14 @@
  * @author win7
  */
 public class test {
+<<<<<<< HEAD
   
       public static void main (String[] args){
          boolean c = true;
          
           
       }  
+=======
+
+>>>>>>> master
 }
