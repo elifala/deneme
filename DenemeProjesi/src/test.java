@@ -11,5 +11,6 @@
 public class test{
       public static void main (String[] args){
          boolean c = true;
-          int a = 5;   
+          int a = 5; 
+            String Love = "Ömer Kor Elif Alatekini Çok Seviyor Tüm Dünya Duysun..(L)";
       }}
